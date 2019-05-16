@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/TheMovieDBApp/static/css/main.f85e9061.chunk.css",
-    "main.js": "/TheMovieDBApp/static/js/main.72d8b9e4.chunk.js",
-    "main.js.map": "/TheMovieDBApp/static/js/main.72d8b9e4.chunk.js.map",
+    "main.js": "/TheMovieDBApp/static/js/main.896619e8.chunk.js",
+    "main.js.map": "/TheMovieDBApp/static/js/main.896619e8.chunk.js.map",
     "runtime~main.js": "/TheMovieDBApp/static/js/runtime~main.1988ae7d.js",
     "runtime~main.js.map": "/TheMovieDBApp/static/js/runtime~main.1988ae7d.js.map",
-    "static/js/2.9c4395fa.chunk.js": "/TheMovieDBApp/static/js/2.9c4395fa.chunk.js",
-    "static/js/2.9c4395fa.chunk.js.map": "/TheMovieDBApp/static/js/2.9c4395fa.chunk.js.map",
+    "static/js/2.cee8c843.chunk.js": "/TheMovieDBApp/static/js/2.cee8c843.chunk.js",
+    "static/js/2.cee8c843.chunk.js.map": "/TheMovieDBApp/static/js/2.cee8c843.chunk.js.map",
     "index.html": "/TheMovieDBApp/index.html",
-    "precache-manifest.5db3fa27d6448b706d833f372f42cf70.js": "/TheMovieDBApp/precache-manifest.5db3fa27d6448b706d833f372f42cf70.js",
+    "precache-manifest.2356d4345da89df68590582df352a324.js": "/TheMovieDBApp/precache-manifest.2356d4345da89df68590582df352a324.js",
     "service-worker.js": "/TheMovieDBApp/service-worker.js",
     "static/css/main.f85e9061.chunk.css.map": "/TheMovieDBApp/static/css/main.f85e9061.chunk.css.map"
   }
