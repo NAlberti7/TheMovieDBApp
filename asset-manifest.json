@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TheMovieDBApp/static/css/main.44a36be5.chunk.css",
+    "main.js": "/TheMovieDBApp/static/js/main.9883f4de.chunk.js",
+    "main.js.map": "/TheMovieDBApp/static/js/main.9883f4de.chunk.js.map",
+    "runtime~main.js": "/TheMovieDBApp/static/js/runtime~main.1988ae7d.js",
+    "runtime~main.js.map": "/TheMovieDBApp/static/js/runtime~main.1988ae7d.js.map",
+    "static/js/2.3e191eea.chunk.js": "/TheMovieDBApp/static/js/2.3e191eea.chunk.js",
+    "static/js/2.3e191eea.chunk.js.map": "/TheMovieDBApp/static/js/2.3e191eea.chunk.js.map",
+    "index.html": "/TheMovieDBApp/index.html",
+    "precache-manifest.ea8f951cafd60fedf9d97db64447ca82.js": "/TheMovieDBApp/precache-manifest.ea8f951cafd60fedf9d97db64447ca82.js",
+    "service-worker.js": "/TheMovieDBApp/service-worker.js",
+    "static/css/main.44a36be5.chunk.css.map": "/TheMovieDBApp/static/css/main.44a36be5.chunk.css.map"
+  }
+}
