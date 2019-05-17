@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TheMovieDBApp/static/css/main.efd4fc2e.chunk.css",
+    "main.css": "/TheMovieDBApp/static/css/main.c0a73be5.chunk.css",
     "main.js": "/TheMovieDBApp/static/js/main.9883f4de.chunk.js",
     "main.js.map": "/TheMovieDBApp/static/js/main.9883f4de.chunk.js.map",
     "runtime~main.js": "/TheMovieDBApp/static/js/runtime~main.1988ae7d.js",
@@ -8,8 +8,8 @@
     "static/js/2.3e191eea.chunk.js": "/TheMovieDBApp/static/js/2.3e191eea.chunk.js",
     "static/js/2.3e191eea.chunk.js.map": "/TheMovieDBApp/static/js/2.3e191eea.chunk.js.map",
     "index.html": "/TheMovieDBApp/index.html",
-    "precache-manifest.c03b7b5652693e3e4bd3bc34eb14fde0.js": "/TheMovieDBApp/precache-manifest.c03b7b5652693e3e4bd3bc34eb14fde0.js",
+    "precache-manifest.103f910f3b869488278334b669b78fb6.js": "/TheMovieDBApp/precache-manifest.103f910f3b869488278334b669b78fb6.js",
     "service-worker.js": "/TheMovieDBApp/service-worker.js",
-    "static/css/main.efd4fc2e.chunk.css.map": "/TheMovieDBApp/static/css/main.efd4fc2e.chunk.css.map"
+    "static/css/main.c0a73be5.chunk.css.map": "/TheMovieDBApp/static/css/main.c0a73be5.chunk.css.map"
   }
 }
